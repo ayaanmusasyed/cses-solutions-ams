@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "ios": "cpp",
         "vector": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "algorithm": "cpp",
+        "unordered_map": "cpp"
     }
 }
